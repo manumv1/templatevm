@@ -159,7 +159,15 @@
               "diskSizeGB": 1023,
               "lun": 0,
               "createOption": "Empty"
+            },
+            {
+              "diskSizeGB": 128,
+              "lun": 1,
+              "createOption": "Empty"
             }
+
+
+
           ]
         },
         "networkProfile": {
